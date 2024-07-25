@@ -1,3 +1,4 @@
 nginx:latest
 nacos/nacos-server:1.2.1
 mysql:8.0.20
+xhofe/alist:latest
